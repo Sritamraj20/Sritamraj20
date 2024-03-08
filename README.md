@@ -1,3 +1,4 @@
+![logo](https://github.com/Sritamraj20/Sritamraj20/blob/main/github%20banner.jpg)
 <h1 align="center">Hi 👋, I'm Sritamraj Mahakul</h1>
 <h3 align="center">A passionate Automation Tester from India</h3>
 <img align="right" alt="Coding" width="400" src="https://as1.ftcdn.net/v2/jpg/05/56/29/36/1000_F_556293653_e9P80XtK4yyDd8WU1vRtdqSU1Vym7zoX.jpg"/>
