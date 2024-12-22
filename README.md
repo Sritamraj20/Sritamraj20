@@ -1,6 +1,6 @@
 ![logo](https://github.com/Sritamraj20/Sritamraj20/blob/main/github%20banner.jpg)
 <h1 align="center">Hi 👋, I'm Sritamraj Mahakul</h1>
-<h3 align="center">A passionate Automation Tester from India</h3>
+<h3 align="center">A passionate SDET from India</h3>
 <img align="right" alt="Coding" width="400" src="https://as1.ftcdn.net/v2/jpg/05/56/29/36/1000_F_556293653_e9P80XtK4yyDd8WU1vRtdqSU1Vym7zoX.jpg"/>
 
 
@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **User Acceptance Testing**
+- 🔭 I’m currently working on **Automating an Electron based application**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript and playwright**
 
 - 👨‍💻 All of my projects are available at [https://sritamraj20.github.io/Portfolio/](https://sritamraj20.github.io/Portfolio/)
 
-- 💬 Ask me about **Selenium,JAVA,POSTMAN ,TestNG , Cucumber**
+- 💬 Ask me about **Selenium,JAVA,POSTMAN ,TestNG , Cucumber,GIT,Jenkins,Mobile Automation**
 
 - 📫 How to reach me **sritamrajmahakul2019@gmail.com**
 
