@@ -32,7 +32,7 @@
 
 <p align='center'>
 <picture>
-<img src="https://github-readme-stats.vercel.app/api?username=hxu296&show_icons=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=sritamraj20&show_icons=true&locale=en&layout=compact" />
 </picture>
 
 <picture>
